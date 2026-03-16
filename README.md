@@ -1,16 +1,21 @@
-# React + Vite
+• O QUE É O PROJETO
+	• O projeto é apenas um site de e-commerce piloto que foi criado para avaliação técnica.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+• QUAIS TECNOLOGIAS FORAM USADAS
+	• React (com Vite)
+	• React Router DOM
+	• TailwindCSS
+	• Context API
+	• JavaScript
+	• localStorage para manter os itens do carrinho
 
-Currently, two official plugins are available:
+• COMO INSTALAR
+	• Clone o repositório e instale as dependências:
+	• bash npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+• COMO EXECUTAR
+	• Inicie o servidor de desenvolvimento:
+	• bash npm run dev
+	• Abra http://localhost:5173 no navegador para visualizar a aplicação.
+	
+Projeto desenvolvimento por Paulo Sérgio Melo de Lima Filho em parceria com Nazaré Almeida (Monitora do Curso DEV FullStack).
